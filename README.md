@@ -22,6 +22,30 @@ An AI and robotic future is impossible without good software. Of course, these a
 [![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity)
 
+<p aligh="center">
+<img width="450px" alt="LookAtMeals project logo" src="/logo.svg?raw=true">
+ </p>
+ 
+ <p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo-min-animated.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
 <!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
