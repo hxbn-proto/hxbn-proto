@@ -21,14 +21,10 @@ An AI and robotic future is impossible without good software. Of course, these a
 [![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals-diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/issues/)
 [![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity)
-
-<p aligh="center">
-<img width="450px" alt="LookAtMeals project logo" src="/logo.svg?raw=true">
- </p>
  
  <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo-min-animated.png" alt="Logo" width="80" height="80">
+    <img src="/logo-min-animated.svg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
