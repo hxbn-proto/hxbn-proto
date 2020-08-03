@@ -24,7 +24,7 @@ An AI and robotic future is impossible without good software. Of course, these a
  
  <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/logo-min.svg?raw=true" alt="Logo" width="200" height="200">
+    <img src="/logo-min.svg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Look At Meals</h3>
