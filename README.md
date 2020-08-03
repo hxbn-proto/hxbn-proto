@@ -12,7 +12,7 @@ An AI and robotic future is impossible without good software. Of course, these a
 <br>
 </p>
 
-## I am currently working on project <a href="https://lookatmeals.com/">Look At Meals</a>
+## I am currently working on project
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/hxbn-proto/lookatmeals-diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/contributors/)
 [![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)
@@ -24,10 +24,10 @@ An AI and robotic future is impossible without good software. Of course, these a
  
  <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/logo-min-animated.svg?raw=true" alt="Logo" width="80" height="80">
+    <img src="/logo-min-animated.svg?raw=true" alt="Logo" width="280" height="280">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Look At Meals</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
