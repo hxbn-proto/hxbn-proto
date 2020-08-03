@@ -20,6 +20,8 @@ An AI and robotic future is impossible without good software. Of course, these a
 [![HitCount](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals-diary.svg)](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals-diary)
 [![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals-diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/issues/)
 [![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity)
+
 <!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
