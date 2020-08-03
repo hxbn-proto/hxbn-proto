@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hi, I'm Serhii
 
-<!--
-**hxbn-proto/hxbn-proto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An AI and robotic future is impossible without good software. Of course, these are the things of tomorrow, but even now, every large and complex software product is based on one or more small pieces of code. I am a developer, and I hope our future comes as quickly as we want to improve the quality and technical level of our code!
 
+
+## I am currently working on project <a href="https://lookatmeals.com/"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
