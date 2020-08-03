@@ -24,26 +24,26 @@ An AI and robotic future is impossible without good software. Of course, these a
  
  <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/logo-min-animated.svg?raw=true" alt="Logo" width="280" height="280">
+    <img src="/logo-min.svg?raw=true" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Look At Meals</h3>
-<p align="center"
-[![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)
-[![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity)-->
+<p align="center">
+<a href="https://lookatmeals.com/"><img alt="Website lookatmeals.com" src="https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg"></a>
+<a href="https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg"></a>
+<a href="https://gitgub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
   <p align="center">
     An awesome README template to jumpstart your projects!
-    <br />
+    <br/>
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <br/>
+    <br/>
+    <a href="https://lookatmeals.com">View App</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/hxbn-proto/lookatmeals-diary/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/hxbn-proto/lookatmeals-diary/issues">Request Feature</a>
   </p>
 </p>
 <!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
