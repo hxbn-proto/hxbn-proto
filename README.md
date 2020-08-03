@@ -34,12 +34,12 @@ An AI and robotic future is impossible without good software. Of course, these a
 <a href="https://gitgub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Web application for calculating extended food intake based on personal biological parameters and tracking daily food intake and body weight.
     <br/>
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://lookatmeals.com">View App</a>
+    <a href="https://lookatmeals.com">View Application</a>
     ·
     <a href="https://github.com/hxbn-proto/lookatmeals-diary/issues">Report Bug</a>
     ·
