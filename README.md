@@ -35,7 +35,7 @@ An AI and robotic future is impossible without good software. Of course, these a
   <p align="center">
     Personalized diet calculator and food tracker
     <br/>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://lookatmeals.com">View Application</a>
