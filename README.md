@@ -14,13 +14,13 @@ An AI and robotic future is impossible without good software. Of course, these a
 
 ## I am currently working on project
 <!--[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/hxbn-proto/lookatmeals-diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/contributors/)
 [![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)
-[![GitHub version](https://badge.fury.io/gh/hxbn-proto%2Flookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary)
-[![HitCount](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals-diary.svg)](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals-diary)
-[![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals-diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/issues/)
-[![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg)](https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity)-->
+[![GitHub version](https://badge.fury.io/gh/hxbn-proto%2Flookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary)
+[![HitCount](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary.svg)](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary)
+[![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/issues/)
+[![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)-->
  
  <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -30,8 +30,8 @@ An AI and robotic future is impossible without good software. Of course, these a
   <h3 align="center">Look At Meals</h3>
 <p align="center">
 <a href="https://lookatmeals.com/"><img alt="Website lookatmeals.com" src="https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg"></a>
-<a href="https://github.com/hxbn-proto/lookatmeals-diary/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hxbn-proto/lookatmeals-diary.svg"></a>
-<a href="https://gitgub.com/hxbn-proto/lookatmeals-diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg"></a>
+<a href="https://gitgub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
   <p align="center">
     Personalized diet calculator and food tracker
@@ -41,9 +41,9 @@ An AI and robotic future is impossible without good software. Of course, these a
     <br/>
     <a href="https://lookatmeals.com">View Application</a>
     ·
-    <a href="https://github.com/hxbn-proto/lookatmeals-diary/issues">Report a Bug</a>
+    <a href="https://github.com/hxbn-proto/lookatmeals_diary/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/hxbn-proto/lookatmeals-diary/issues">Request a Feature</a>
+    <a href="https://github.com/hxbn-proto/lookatmeals_diary/issues">Request a Feature</a>
   </p>
 </p>
 <!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
