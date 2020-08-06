@@ -3,10 +3,9 @@
 An AI and robotic future is impossible without good software. Of course, these are the things of tomorrow, but even now, every large and complex software product is based on one or more small pieces of code. I am a developer, and I hope our future comes as quickly as we want to improve the quality and technical level of our code!
 <p align="center">
 <br>
-<a href="https://">Telegram</a>
+<!--<a href="https://">Telegram</a>
  · <a href="https://">Facebook</a>
- · <a href="https://">Twitter</a>
-<br>
+ · <a href="https://">Twitter</a>-->
 <br>
 <br>
 <br>
@@ -23,7 +22,7 @@ An AI and robotic future is impossible without good software. Of course, these a
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)-->
  
  <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/">
     <img src="https://raw.githubusercontent.com/hxbn-proto/hxbn-proto/master/logo-min.svg" alt="Logo" width="200" height="200">
   </a>
 
