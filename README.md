@@ -13,7 +13,7 @@ An AI and robotic future is impossible without good software. Of course, these a
 </p>
 
 ## I am currently working on project
-<!--[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+<!--[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://GitHub.com/hxbn-proto/lookatmeals_diary/issues/)
 [![GitHub contributors](https://img.shields.io/github/contributors/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/contributors/)
 [![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)
 [![GitHub version](https://badge.fury.io/gh/hxbn-proto%2Flookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary)
@@ -46,17 +46,3 @@ An AI and robotic future is impossible without good software. Of course, these a
     <a href="https://github.com/hxbn-proto/lookatmeals_diary/issues">Request a Feature</a>
   </p>
 </p>
-<!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-Here are some ideas to get you started:-->
-
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
