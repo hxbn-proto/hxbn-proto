@@ -3,8 +3,7 @@
 An AI and robotic future is impossible without good software. Of course, these are the things of tomorrow, but even now, every large and complex software product is based on one or more small pieces of code. I am a developer, and I hope our future comes as quickly as we want to improve the quality and technical level of our code!
 <p align="center">
 <br>
- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<!--<a href="https://">Telegram</a>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="vertical" data-theme="light" data-vanity="serhii-chernyk-2065b1156"><a class="LI-simple-link" href='https://pl.linkedin.com/in/serhii-chernyk-2065b1156?trk=profile-badge'>Serhii Chernyk</a></div><!--<a href="https://">Telegram</a>
  · <a href="https://">Facebook</a>
  · <a href="https://">Twitter</a>-->
 <br>
