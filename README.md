@@ -19,7 +19,7 @@ An AI and robotic future is impossible without good software. Of course, these a
 [![HitCount](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary.svg)](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary)
 [![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/issues/)
 [![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-frozen-blue.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)-->
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-frozen-blue.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)
  
  <p align="center">
   <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/">
