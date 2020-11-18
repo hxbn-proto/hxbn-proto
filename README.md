@@ -14,12 +14,12 @@ An AI and robotic future is impossible without good software. Of course, these a
 ## I am currently working on project
 <!--[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://GitHub.com/hxbn-proto/lookatmeals_diary/issues/)
 [![GitHub contributors](https://img.shields.io/github/contributors/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/contributors/)
-<!--[![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)-->
+<!--[![Website lookatmeals.com](https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg)](https://lookatmeals.com/)
 [![GitHub version](https://badge.fury.io/gh/hxbn-proto%2Flookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary)
 [![HitCount](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary.svg)](http://hits.dwyl.com/hxbn-proto/https://githubcom/hxbn-proto/lookatmeals_diary)
 [![GitHub issues](https://img.shields.io/github/issues/hxbn-proto/lookatmeals_diary.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/issues/)
 [![GitHub license](https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg)](https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-frozen-blue.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-frozen-blue.svg)](https://GitHub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity)-->
  
  <p align="center">
   <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/">
@@ -30,7 +30,7 @@ An AI and robotic future is impossible without good software. Of course, these a
 <p align="center">
 <a href="https://lookatmeals.com/"><img alt="Website lookatmeals.com" src="https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg"></a>
 <a href="https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg"></a>
-<a href="https://gitgub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://gitgub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-frozen-blue.svg"></a>
  <a href="https://www.linkedin.com/in/serhii-chernyk"><img alt="LinkedIn profile" src="https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555"></a>
 </p>
   <p align="center">
@@ -39,7 +39,7 @@ An AI and robotic future is impossible without good software. Of course, these a
     <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://lookatmeals.com">View Application</a>
+    <!--a href="https://lookatmeals.com">View Application</a-->
     ·
     <a href="https://github.com/hxbn-proto/lookatmeals_diary/issues">Report a Bug</a>
     ·
