@@ -32,7 +32,8 @@ An AI and robotic future is impossible without good software. Of course, these a
 <!--a href="https://lookatmeals.com/"><img alt="Website lookatmeals.com" src="https://img.shields.io/website-up-down-green-red/https/lookatmeals.com.svg"></a>
 <a href="https://github.com/hxbn-proto/lookatmeals_diary/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/hxbn-proto/lookatmeals_diary.svg"></a>
 <a href="https://gitgub.com/hxbn-proto/lookatmeals_diary/graphs/commit-activity"><img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-frozen-blue.svg"></a>
- <a href="https://www.linkedin.com/in/serhii-chernyk"><img alt="LinkedIn profile" src="https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555"></a>
+ <a href="https://www.linkedin.com/in/serhii-chernyk"><img alt="LinkedIn profile" src="https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555"></a-->
+<!--
 </p>
   <p align="center">
     Personalized diet calculator and food tracker
@@ -40,8 +41,6 @@ An AI and robotic future is impossible without good software. Of course, these a
     <a href="https://GitHub.com/hxbn-proto/lookatmeals_diary/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <!--a href="https://lookatmeals.com">View Application</a-->
-    <!--
     ·
     <a href="https://github.com/hxbn-proto/lookatmeals_diary/issues">Report a Bug</a>
     ·
